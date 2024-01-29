@@ -1,0 +1,26 @@
+.aboveUL{
+    border: 1px solid red;
+    width: 60rem;
+    margin: 0 10%;
+}
+.MainContainer{
+    list-style: none;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.containerItem{
+    display: flex;
+    margin: 30px;
+    
+}
+.containerItem div{
+    padding: 10px;
+}
+.containerButton{
+    padding: 10px;
+}
+.containerButton button{
+    margin-right: 10px;
+}

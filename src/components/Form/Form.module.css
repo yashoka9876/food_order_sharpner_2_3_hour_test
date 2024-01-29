@@ -1,0 +1,21 @@
+.formContainer{
+    margin: 10px;
+}
+.Formm{
+    border: 1px solid red;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+
+.Large input{
+    width: 40px;
+}
+.Medium input{
+    width: 40px;
+}
+.Small input{
+    width: 40px;
+    margin-right: 10px;
+}
